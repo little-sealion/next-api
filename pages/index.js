@@ -23,11 +23,7 @@ export default function Home() {
             {`"unix":1451001600000, "utc":"Fri, 25 Dec 2015 00:00:00 GMT"`}
           </p>
         </div>
-        <div className={styles.footer}>
-          <p>
-            By <a href="https://www.freecodecamp.org/">freeCodeCamp.org</a>
-          </p>
-        </div>
+
     </div>
   )
 }
