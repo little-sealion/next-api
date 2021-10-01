@@ -7,10 +7,26 @@ body {
 }
 
 a {
-  color: inherit;
+  color: #2574A9;
   text-decoration: none;
 }
 
 * {
   box-sizing: border-box;
 }
+ul {
+	list-style-type: none;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+h3 {
+  margin-top: 30px;
+}
+
+hr {
+	margin: 25px;
+}
+
+
